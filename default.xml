@@ -2,6 +2,12 @@
 <manifest>
 	<remote name="origin" fetch="ssh://git@github.com/"/>
 	<default revision="master" remote="origin" sync-s="true"/>
-
-	<project name="maciejmroz/Match-3" path="match-3"/>
+	
+	<project name="maciejmroz/Match-3" path="match3"/>
+	<project name="Saqoosha/Match-3-Games-Solver" path="match3-solver"/>
+	
+	<project name="philsquared/Catch" path="catch"/>
+	<project name="NoAvailableAlias/nano-signal-slot" path="signal-nano"/>
+	<project name="jeffomatic/jl_signal" path="signal-jl"/>
+	<project name="miguelmartin75/Wink-Signals" path="signal-wink"/>
 </manifest>
