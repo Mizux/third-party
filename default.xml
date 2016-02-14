@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="git@github.com:"/>
+	<default revision="master" remote="origin" sync-s="true"/>
+
+	<project name="maciejmroz/Match-3" path="match-3"/>
+</manifest>
